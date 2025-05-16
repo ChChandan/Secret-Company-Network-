@@ -10,6 +10,8 @@ The network integrates **advanced routing, switching, security, and management p
 - All the  devices enable password is **$ecretcomp@ny**.
 
 ---
+![image](https://github.com/user-attachments/assets/bebfdf31-9c08-41df-9f2a-0e10a10f0315)
+
 
 ## **Network Devices**  
 The topology consists of the following key devices:  
